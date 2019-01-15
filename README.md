@@ -1,18 +1,13 @@
-# TEST123
+#### **Formatting text**
 
-HI this is a test site 
+You can **bold** and *italicize* your text
 
-i have no idea how to use this site 
+You can also add footers to your text <sup>[1]</sup> <sub>[2]</sub>
 
-DIGITAL INCLUSION
+> Use blockquotes to make your text stand out
 
+>hi wat is this
 
-Summary:
-As Singapore becomes more connected, more services will be delivered digitally to offer convenience for users. Just as important is ensuring that users have the means to access these services, by providing education and access to segments of society that require assistance.
+how about this oh wow it works. 
 
-
-Digital inclusion and accessibility are important parts of IMDA’s work. From broadband to infocomm skills to digital TV (DTV), IMDA seeks to make these more accessible to those in need and bridge the digital divide between all Singaporeans.
-
-Assistance schemes include the NEU PC Programme that helps provide families with school-going children with PCs and broadband access, the Infocomm Accessibility Centre that trains people with disabilities to use infocomm, as well as the Digital TV Assistance Scheme to help needy households transition to DTV.
-
-(106 words incl. summary)
+so i do <sup>this</sup> <sub>abd</sub> <sub> other</sub> 
