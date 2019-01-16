@@ -11,3 +11,5 @@ You can also add footers to your text <sup>[1]</sup> <sub>[2]</sub>
 how about this oh wow it works. 
 
 so i do <sup>this</sup> <sub>abd</sub> <sub> other</sub> 
+
+this is a new line
